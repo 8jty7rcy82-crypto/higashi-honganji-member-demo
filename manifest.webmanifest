@@ -1,0 +1,10 @@
+{
+  "name": "東本願寺 参拝会員証（試作版）",
+  "short_name": "参拝会員証",
+  "lang": "ja",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f5eb",
+  "theme_color": "#17322a",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
